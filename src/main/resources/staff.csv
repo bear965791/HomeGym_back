@@ -1,0 +1,4 @@
+﻿id,staffName,staffPassword,staffPosition,staffPhone,staffBirthday,staffCheckInDay,staffStatus
+1,John,123,新進員工,0911222333,1991/1/1,2020/2/2,在職中
+2,Abby,321,主管,0911333444,1992/1/1,2010/1/5,在職中
+3,Jason,111,經理,0911555666,1993/1/1,2005/1/2,在職中
